@@ -1,0 +1,47 @@
+body{
+    background-color: #ACE075;
+}
+
+
+.unit{
+    width:80px;
+    height:300px;
+    border:3px solid #000000;
+}
+
+＃output{
+    width: 400px;
+    height: 400px;
+}
+/* #test{
+    white-space: pre;
+} */
+
+.plantmanageApp{
+    width: 100%;
+    margin: 10px auto;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.plantmanageApp2{
+    border: solid 3px #000000;
+    text-align: center;
+    margin: 10px auto;
+    display: inline-block;
+    font-size: 20px;
+
+}
+.selectfactory{
+    font-size: 15px;
+    margin: 0 auto;
+    position: relative;
+    top:80px;
+
+
+
+
+
+}
